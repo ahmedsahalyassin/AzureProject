@@ -1,5 +1,4 @@
 # AzureProject
-New repository for building Microsoft Azure virtual machines
 Azure Virtual Machine Creation Step By Step
 New repository for building Microsoft Azure virtual machines
 <p align="center">
@@ -28,7 +27,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-Project Summary
+
+<h2>Project Summary</h2>
 
 - Step 1 Create a Resource Group
 - Step 2 Create a Windows 10 virtual machine (VM)
